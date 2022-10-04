@@ -20,7 +20,7 @@ public class TestArrayReferencias {
 		Cliente cliente = new Cliente();
 		referencias[2] = cliente;
 		
-		//System.out.println(referencias[1].getNumero());
+		System.out.println(referencias[1].getNumero());
 		
 		ContaPoupanca ref = (ContaPoupanca) referencias[1]; //type cast 
 		System.out.println(cc2.getNumero());
