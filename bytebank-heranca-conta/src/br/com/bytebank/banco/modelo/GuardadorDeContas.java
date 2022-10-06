@@ -22,6 +22,11 @@ public class GuardadorDeContas {
     public Object getReferencias(int pos) {
         return this.referencias[pos];
     }
+
+    public Conta getReferencia(int i) {
+        // TODO Auto-generated method stub
+        return null;
+    }
     
     
     

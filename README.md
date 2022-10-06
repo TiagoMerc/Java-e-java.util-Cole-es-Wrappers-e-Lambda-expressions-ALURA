@@ -85,3 +85,20 @@ Isso é apenas o início sobre esse poderoso pacote **java.util**. Na próxima a
 
 ### 04. Equals e mais listas
 
+**O que aprendemos?**
+
+Nessa aula aprendemos:
+
+- como implementar o método **equals** para definir a igualdade
+
+- que o método **equals** é utilizado pelas listas
+
+- que existe mais uma lista, a **java.util.LinkedList**
+
+- a diferença entre **ArrayList** e **LinkedList**
+
+- a interface **java.util.List** que define os métodos da lista
+
+No próximo capítulo veremos mais uma implementação da interface List
+
+![Equals e mais Listas](./imgs/prints/EqualsEListas.png)

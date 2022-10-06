@@ -1,6 +1,8 @@
 package br.com.bytebank.banco.modelo;
 
-public class GuardadorDeReferencias {
+import java.util.Iterator;
+
+public class GuardadorDeReferencias implements Iterable {
 
     private Object[] referencias;
     private int posicaoLivre;
@@ -23,4 +25,8 @@ public class GuardadorDeReferencias {
         return this.referencias[pos];
     }   
     
+    @Override
+    public Iterator iterator() {
+        return null;
+    }
 }

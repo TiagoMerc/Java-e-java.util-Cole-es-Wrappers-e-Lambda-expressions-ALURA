@@ -1,8 +1,8 @@
 package br.com.bytebank.banco.especial;
 
-import br.com.bytebank.banco.modelo.Object;
+import br.com.bytebank.banco.modelo.Conta;
 
-public class ContaEspecial extends Object {
+public class ContaEspecial extends Conta {
 
 	public ContaEspecial(int agencia, int numero) {
 		super(agencia, numero);
