@@ -163,3 +163,5 @@ Na próxima aula vamos aprender como ordenar as listas!
 Respira fundo, pois estamos quase no fim desse curso, no entanto falta ainda aprender (finalmente!) as famosas lambda expressions. Tá pronto para continuar?
 
 ### 08. Classes anônimas e Lambdas
+
+![Lambda](./imgs/prints/Lambda.png)
