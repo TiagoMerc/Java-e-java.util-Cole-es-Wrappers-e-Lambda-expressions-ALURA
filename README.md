@@ -102,3 +102,20 @@ Nessa aula aprendemos:
 No próximo capítulo veremos mais uma implementação da interface List
 
 ![Equals e mais Listas](./imgs/prints/EqualsEListas.png)
+
+### 05. Vector e a Interface Collection
+
+**Nessa aula vimos:**
+
+- o **java.util.Vector**, que é uma ***ArrayList*** thread safe
+
+- a interface **java.util.Collection** que é a interface de todas as coleções
+
+- as listas são sequencias que aceitam elementos duplicados
+
+- os conjuntos (**java.util.Set**) também são coleções, mas não aceitam duplicados nem são listas
+
+Na próxima aula vamos resolver o problema de guardar primitivos nas listas!
+
+### 06. Autoboxing e Unboxing 
+

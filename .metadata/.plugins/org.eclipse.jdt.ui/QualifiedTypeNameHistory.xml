@@ -8,4 +8,6 @@
     <fullyQualifiedTypeName name="br.com.bytebank.banco.modelo.GuardadorDeContas"/>
     <fullyQualifiedTypeName name="br.com.bytebank.banco.modelo.GuardadorDeReferencias"/>
     <fullyQualifiedTypeName name="br.com.bytebank.banco.modelo.ContaCorrente"/>
+    <fullyQualifiedTypeName name="java.util.LinkedList"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
 </qualifiedTypeNameHistroy>
